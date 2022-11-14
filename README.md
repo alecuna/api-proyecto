@@ -2,7 +2,7 @@
 
 ## Equipos
 
-Deberá hacer una petición GET al url []()
+Deberá hacer una petición GET al url [https://raw.githubusercontent.com/Algoritmos-y-Programacion-2223-1/api-proyecto/main/teams.json](https://raw.githubusercontent.com/Algoritmos-y-Programacion-2223-1/api-proyecto/main/teams.json)
 
 Tendrá una respuesta conformada por una lista de diccionarios, los cuales tienen la siguiente estructura:
 
@@ -18,7 +18,7 @@ Tendrá una respuesta conformada por una lista de diccionarios, los cuales tiene
 
 ## Estadios y Restaurantes
 
-Deberá hacer una petición GET al url []()
+Deberá hacer una petición GET al url [https://raw.githubusercontent.com/Algoritmos-y-Programacion-2223-1/api-proyecto/main/stadiums.json](https://raw.githubusercontent.com/Algoritmos-y-Programacion-2223-1/api-proyecto/main/stadiums.json)
 
 Tendrá una respuesta conformada por una lista de diccionarios, los cuales tienen la siguiente estructura:
 
@@ -45,7 +45,7 @@ Tendrá una respuesta conformada por una lista de diccionarios, los cuales tiene
 
 ## Partidos
 
-Deberá hacer una petición GET al url []()
+Deberá hacer una petición GET al url [https://raw.githubusercontent.com/Algoritmos-y-Programacion-2223-1/api-proyecto/main/matches.json](https://raw.githubusercontent.com/Algoritmos-y-Programacion-2223-1/api-proyecto/main/matches.json)
 
 Tendrá una respuesta conformada por una lista de diccionarios, los cuales tienen la siguiente estructura:
 
